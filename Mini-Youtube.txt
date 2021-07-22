@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> MINI YOU TUBE </title>
+    </head>
+    <body>
+    
+    
+    
+     <hr>
+     
+     <h1 style="background-color:red;">&nbsp &nbsp &nbsp  &nbsp MINI YOU TUBE</h1>
+     
+     <hr>
+     <hr>
+     <h4 style="background-color:powderblue;">&nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp Thanks For Visiting</h4>
+    
+    <hr>
+    <iframe width="310" height="200"
+src="https://www.youtube.com/embed/KppS7LRbybw">
+</iframe>
+<hr>
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/WyJrrx2ftHc">
+</iframe>
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/OeC5T5KZS84">
+</iframe>
+
+<hr>
+
+
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/K2wsLjVRF1w">
+</iframe>
+
+
+<hr>
+
+
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/tIgO074lOMY  ">
+</iframe>
+
+
+<hr>
+
+
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/va3JHUlMZHU   ">
+</iframe>
+
+
+<hr>
+
+<<h3 style="background-color:orange;"> &nbsp I Hope You Are Enjoying.</h3
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/-r1IBVt8FzE   ">
+</iframe>
+
+<hr>
+
+
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/7nWZmgwuAUU  ">
+</iframe>
+
+<hr>
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/6G42rXal5-g  ">
+</iframe>
+
+<hr>
+<h3 style="background-color:pink;">&nbsp If any problem in this code then please comment.</h3>
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/DLb8IFee-DI  ">
+</iframe>
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/4iz0xw3Afj8 ">
+</iframe>
+
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/vI9_BxyQofw ">
+</iframe>
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/PNAkSTpUbb8 ">
+</iframe>
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/SjhBeIz1tDI ">
+</iframe>
+
+
+
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/AKuu92ELIrE  ">
+</iframe>
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/gsvxHJWnP_s  ">
+</iframe>
+
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/zUo7_I3mSD0">
+</iframe>
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/OqVM37EATys  ">
+</iframe>
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/xTQJxpLE6bw  ">
+</iframe>
+
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/7-KeydUBgzY">
+</iframe>
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/P9F1Eh0qO2M ">
+</iframe>
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/rMBpNTaOYWE">
+</iframe>
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/zV6sHc0t47c  ">
+</iframe>
+
+<hr>
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/buxedopZbKM ">
+</iframe>
+
+<hr>
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/Eg5ct0fl4b0">
+</iframe>
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/Eg5ct0fl4b0 ">
+</iframe>
+
+
+<hr>
+<h3 style="background-color:pink;">&nbsp PLAYLISTS  ⏯️  </h3>
+
+
+        <hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg  ">
+</iframe>">
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/  ">
+</iframe>">
+
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/   ">
+</iframe>">
+
+<hr>
+
+<iframe width="310" height="200"
+src="https://www.youtube.com/embed/   ">
+</iframe>">
+        
+        
+        <h4 style="background-color:silver;">&nbsp Upcoming playlists....(adding)...  </h4>
+        
+        
+        
+    </body>
+</html>
